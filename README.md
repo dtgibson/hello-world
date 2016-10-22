@@ -1,5 +1,5 @@
 # hello-world
-Just a test
+Only a test
 
 This is a test commit.
 
